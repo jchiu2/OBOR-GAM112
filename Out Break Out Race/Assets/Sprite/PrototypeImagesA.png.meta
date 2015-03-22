@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 32e4f4ad42dba11469d0aead77614f63
+timeCreated: 1426401259
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CarShell
+    21300002: Wheel
+    21300004: Straight
+    21300006: Steep
+    21300008: VerySteep
+    21300010: 45Ramp
+    21300012: 90Ramp
+    21300014: Loop
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: CarShell
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 556
+        width: 489
+        height: 147
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wheel
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 576
+        width: 154
+        height: 143
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Straight
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 444
+        width: 265
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Steep
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 393
+        width: 264
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: VerySteep
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 361
+        width: 180
+        height: 161
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 45Ramp
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 75
+        width: 243
+        height: 189
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 90Ramp
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 53
+        width: 181
+        height: 330
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Loop
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 79
+        width: 397
+        height: 258
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
